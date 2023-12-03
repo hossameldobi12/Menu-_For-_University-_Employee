@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1701633096 source:d:\c_course\sheet2\dam\data.c
+	<stdio.h>
+	"data.h"
+	"STD_TYPES.h"
+
+1701633218 d:\c_course\sheet2\dam\data.h
+	"STD_TYPES.h"
+
+1701632265 source:d:\c_course\sheet2\dam\input.c
+	<stdio.h>
+	"input.h"
+	"data.h"
+	<string.h>
+
+1701629578 d:\c_course\sheet2\dam\input.h
+
+1701632964 source:d:\c_course\sheet2\dam\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"input.h"
+	"output.h"
+	"data.h"
+	"STD_TYPES.h"
+	<windows.h>
+	<string.h>
+
+1701629636 d:\c_course\sheet2\dam\menu.h
+
+1701629600 d:\c_course\sheet2\dam\output.h
+
+1701629673 source:d:\c_course\sheet2\dam\menu.c
+	<stdio.h>
+	"menu.h"
+
+1701629511 source:d:\c_course\sheet2\dam\output.c
+	<stdio.h>
+	"output.h"
+	"data.h"
+
+1695571854 d:\c_course\sheet2\dam\std_types.h
+
+1701639011 source:c:\users\s_n\desktop\dam new\output.c
+	<stdio.h>
+	"output.h"
+	"data.h"
+	"STD_TYPES.h"
+
+1701635773 c:\users\s_n\desktop\dam new\output.h
+
+1701636488 c:\users\s_n\desktop\dam new\data.h
+	"STD_TYPES.h"
+
+1695571854 c:\users\s_n\desktop\dam new\std_types.h
+
+1701639230 source:c:\users\s_n\desktop\dam new\input.c
+	<stdio.h>
+	"input.h"
+	"data.h"
+	<string.h>
+
+1701634296 c:\users\s_n\desktop\dam new\input.h
+
+1701639175 source:c:\users\s_n\desktop\dam new\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"output.h"
+	"data.h"
+	"STD_TYPES.h"
+	<windows.h>
+	<string.h>
+
+1701639011 source:c:\users\s_n\desktop\dam new\data.c
+	<stdio.h>
+	"data.h"
+	"STD_TYPES.h"
+
+1701639011 source:c:\users\s_n\desktop\space task\data.c
+	<stdio.h>
+	"data.h"
+	"STD_TYPES.h"
+
+1701636488 c:\users\s_n\desktop\space task\data.h
+	"STD_TYPES.h"
+
+1695571854 c:\users\s_n\desktop\space task\std_types.h
+
+1701639230 source:c:\users\s_n\desktop\space task\input.c
+	<stdio.h>
+	"input.h"
+	"data.h"
+	<string.h>
+
+1701634296 c:\users\s_n\desktop\space task\input.h
+
+1701639411 source:c:\users\s_n\desktop\space task\output.c
+	<stdio.h>
+	"output.h"
+	"data.h"
+	"STD_TYPES.h"
+
+1701635773 c:\users\s_n\desktop\space task\output.h
+
